@@ -18,7 +18,6 @@ Matplotlib & Seaborn (Data Visualization)
 📁 Dataset Description
 
 The dataset contains logistics shipment records including:
-
 Shipment mode (Air, Ocean, Truck, Air Charter)
 Delivery dates and scheduled dates
 Freight cost and weight
@@ -53,9 +52,10 @@ Visualized delivery delay across countries and shipment modes
 
 3) Air offers the best balance of reliability and cost ($35.65/kg), delivering mostly on time or slightly early, making it suitable for time-sensitive shipments.
 
-4)Truck is the most cost-efficient ($14.19/kg) with the lowest lead time (~55 days), making it the best option for regional and cost-sensitive logistics.
-Vendor analysis shows strong cost variation, indicating that selecting the right vendors can significantly reduce overall logistics cost.
-Overall, shipment mode selection should be strategy-driven, balancing cost, speed, and reliability based on business needs and geography.
+4) Truck is the most cost-efficient ($14.19/kg) with the lowest lead time (~55 days), making it the best option for regional and cost-sensitive logistics.
+
+   Vendor analysis shows strong cost variation, indicating that selecting the right vendors can significantly reduce overall logistics cost.
+   Overall, shipment mode selection should be strategy-driven, balancing cost, speed, and reliability based on business needs and geography.
 
 🚀 Conclusion
 
