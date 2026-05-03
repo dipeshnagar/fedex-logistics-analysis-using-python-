@@ -29,19 +29,23 @@ Vendor and country information
 🔹 Cost Analysis
 Compared shipment modes based on cost per KG
 Identified Air Charter as the most expensive option
+
 🔹 Lead Time Analysis
 Evaluated delivery speed across shipment modes
 Found Truck as the fastest and most efficient mode
+
 🔹 Delivery Delay Analysis
 Calculated delay using:
 Negative → Early delivery
 Positive → Late delivery
+
 🔹 Trend Analysis
 Analyzed monthly delivery performance
 Identified fluctuations in operational efficiency over time
+
 🔹 Vendor Performance
-Identified:
 Top 10 fastest vendors
+
 🔹 Country-wise Heatmap 🔥
 Visualized delivery delay across countries and shipment modes
 
