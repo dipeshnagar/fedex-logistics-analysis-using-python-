@@ -43,10 +43,10 @@ Top 10 fastest vendors
 Visualized delivery delay across countries and shipment modes
 
 💡 Key Insights
-Ocean is low-cost ($20.66/kg) but highly unreliable with consistent delays (8–10 days) and very high lead time (~176 days),suitable only for non-urgent shipments, with rare exceptions like Zambia performing early.
-Air Charter is the fastest but extremely expensive (~$180/kg), delivering significantly early (20–40 days), but with high variability, making it ideal only for urgent, high-priority deliveries.
-Air offers the best balance of reliability and cost ($35.65/kg), delivering mostly on time or slightly early, making it suitable for time-sensitive shipments.
-Truck is the most cost-efficient ($14.19/kg) with the lowest lead time (~55 days), making it the best option for regional and cost-sensitive logistics.
+1) Ocean is low-cost ($20.66/kg) but highly unreliable with consistent delays (8–10 days) and very high lead time (176 days),suitable only for non-urgent shipments, with rare exceptions like Zambia performing early.
+2) Air Charter is the fastest but extremely expensive (~$180/kg), delivering significantly early (20–40 days), but with high variability, making it ideal only for urgent, high-priority deliveries.
+3) Air offers the best balance of reliability and cost ($35.65/kg), delivering mostly on time or slightly early, making it suitable for time-sensitive shipments.
+4)Truck is the most cost-efficient ($14.19/kg) with the lowest lead time (~55 days), making it the best option for regional and cost-sensitive logistics.
 Vendor analysis shows strong cost variation, indicating that selecting the right vendors can significantly reduce overall logistics cost.
 Overall, shipment mode selection should be strategy-driven, balancing cost, speed, and reliability based on business needs and geography.
 
