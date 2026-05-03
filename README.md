@@ -8,13 +8,19 @@ This project focuses on analyzing logistics and shipment data to evaluate delive
 🎯 Objectives
 
    Analyze delivery delay and lead time
+   
    Compare shipment modes based on cost and performance
+   
    Identify top-performing vendors
+   
    Evaluate regional delivery patterns (country-wise)
+   
    Understand the relationship between cost and delivery speed
 
 🛠 Tools & Technologies
+   
    Python (Pandas, NumPy)
+   
    Matplotlib & Seaborn (Data Visualization)
 
 📁 Dataset Description
